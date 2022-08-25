@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/weatherstreamhandler_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather/WeatherStreamHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather/WeatherStreamHandler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather/WeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather/WeatherData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather/README.md[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather/README.md[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather/WeatherStreamHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather/WeatherStreamHandler$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sn/rachitech/weather/WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/rachid/Bureau/LinkDocs/in - Projects/Spark Structured Streaming - using Kafka Spark Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/target/scala-2.11/classes/sn/rachitech/weather/WeatherData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

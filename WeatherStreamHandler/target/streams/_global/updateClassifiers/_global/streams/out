@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/rachid/Bureau/LinkDocs/in%20-%20Projects/Spark%20Structured%20Streaming%20-%20using%20Kafka%20Spark%20Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/home/rachid/Bureau/LinkDocs/in%20-%20Projects/Spark%20Structured%20Streaming%20-%20using%20Kafka%20Spark%20Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/"), "root")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
