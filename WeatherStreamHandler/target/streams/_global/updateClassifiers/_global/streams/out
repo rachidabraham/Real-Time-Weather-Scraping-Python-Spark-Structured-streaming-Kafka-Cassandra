@@ -1,4 +1,5 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/rachid/Bureau/LinkDocs/in%20-%20Projects/Spark%20Structured%20Streaming%20-%20using%20Kafka%20Spark%20Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/"), "root")...
-[debug] Done updating ProjectRef(uri("file:/home/rachid/Bureau/LinkDocs/in%20-%20Projects/Spark%20Structured%20Streaming%20-%20using%20Kafka%20Spark%20Cassandra/Spark-Structured-Streaming-with-Kafka-and-Caasandra/WeatherStreamHandler/"), "root")
+[warn] scala-library-2.11.12-sources.jar no longer exists at /home/rachid/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/ibrahima/Workspace/data-projects/Real-Time-Weather-Scraping-Python-Spark-Structured-streaming-Kafka-Cassandra/WeatherStreamHandler/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/Users/ibrahima/Workspace/data-projects/Real-Time-Weather-Scraping-Python-Spark-Structured-streaming-Kafka-Cassandra/WeatherStreamHandler/"), "root")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

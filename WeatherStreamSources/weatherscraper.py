@@ -9,7 +9,8 @@ from datetime import datetime
 # Function : Scraping Google Weather Data
 def get_weather_info(query, session):
     url = f'https://www.google.com/search?q=weather+{query}'
-    resp = session.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/98.0.4758.102 Safari/537.36'})
+    #resp = session.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/98.0.4758.102 Safari/537.36'})
+    resp = session.get(url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'})
     # Retrieving some infos
     location = resp.html.find('div#wob_loc.wob_loc', first=True).text # Region to check
     temp = resp.html.find('span#wob_tm.wob_t', first=True).text # Temperature

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherStreamHandler.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherStreamHandler.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherStreamHandler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherStreamHandler-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherStreamHandler.WeatherStreamHandler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherStreamHandler.WeatherStreamHandler-build.iml" />
     </modules>
   </component>
 </project>
